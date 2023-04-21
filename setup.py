@@ -50,7 +50,7 @@ setuptools.setup(
         'scikit-learn',
         'scipy',
 #         'seqio @ git+https://github.com/google/seqio#egg=seqio',
-        'seqio',
+#         'seqio',
         't5',
 #         't5x @ git+https://github.com/google-research/t5x#egg=t5x',
         'tensorflow',
